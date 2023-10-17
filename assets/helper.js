@@ -1,0 +1,10 @@
+export const primaryColor = '#2979F2';
+export const textColor = '#022150';
+export const text24 = 24;
+export const textColor1 = '#36455A';
+export const textColorBlue = '#156CF7';
+export const defaultFont = 'Inter';
+export const defaultFontThin = 'Inter-Thin';
+export const backgroudWhite = '#FFFFFF';
+export const backgroudGreen = '#145855';
+export const textWhite = '#FFFFFF';
